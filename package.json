@@ -1,0 +1,26 @@
+{
+  "name": "ev3_iei_n3_c3",
+  "version": "1.0.0",
+  "description": "<h1>Bases de datos NO estructuradas, proyecto unidad 3</h1>",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEmpathy/EV3_IEI_N3_C3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MrEmpathy/EV3_IEI_N3_C3/issues"
+  },
+  "homepage": "https://github.com/MrEmpathy/EV3_IEI_N3_C3#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.3"
+  }
+}
